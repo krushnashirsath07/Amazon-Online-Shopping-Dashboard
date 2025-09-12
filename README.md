@@ -1,5 +1,6 @@
 # Amazon-Online-Shopping-Dashboard
 Amazon Analytics Dashboard – Power BI
+
 📌 Project Overview
 
 This project is a fully advanced Power BI dashboard developed from scratch to analyze Amazon-related data. The objective was to design a robust and interactive business intelligence solution that helps track performance, monitor trends, and support data-driven decision-making.
@@ -86,4 +87,4 @@ Adding predictive analytics (forecasting sales & demand using Power BI AI visual
 
 Expanding coverage to include inventory optimization and supplier analytics.
 
-Example :
+Example :https://github.com/krushnashirsath07/Amazon-Online-Shopping-Dashboard/blob/main/Dashboard%20Page%201.png
