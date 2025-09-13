@@ -87,4 +87,7 @@ Adding predictive analytics (forecasting sales & demand using Power BI AI visual
 
 Expanding coverage to include inventory optimization and supplier analytics.
 
+👉 This project demonstrates how Power BI can transform raw Amazon data into actionable business insights.
+I’d love to collaborate on similar business intelligence and data analytics projects—feel free to connect or suggest improvements!
+
 Example :https://github.com/krushnashirsath07/Amazon-Online-Shopping-Dashboard/blob/main/Dashboard%20Page%201.png
